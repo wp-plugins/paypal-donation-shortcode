@@ -22,9 +22,9 @@ It adds a simple to use a [paypal] shortcode with a couple of options:
 
 Example usage of the plugin:
 
-[paypal text="Do you like this plugin? Please reward it with a little donation." email="paypal@coenjacobs.net" title="Donation for Paypal Donation Shortcode plugin" currency="USD"/]
+`[paypal text="Do you like this plugin? Please reward it with a little donation." email="paypal@coenjacobs.net" title="Donation for Paypal Donation Shortcode plugin" currency="USD"/]`
 
-Read more about this plugin on the [http://coenjacobs.net/wordpress/plugins/paypal-donation-shortcode] (PayPal Donation Shortcode plugin) page.
+Read more about this plugin on the [PayPal Donation Shortcode plugin] (http://coenjacobs.net/wordpress/plugins/paypal-donation-shortcode) page.
 
 == Installation ==
 
