@@ -30,7 +30,7 @@ Read more about this plugin on the [PayPal Donation Shortcode plugin] (http://co
 
 1. Upload `paypal-donation-shortcode.php` file to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Enjoy this plugin
+1. Use the shortcode in a post or page and enjoy!
 
 == Frequently Asked Questions ==
 
