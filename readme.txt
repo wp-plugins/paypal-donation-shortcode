@@ -24,7 +24,7 @@ Example usage of the plugin:
 
 `[paypal text="Do you like this plugin? Please reward it with a little donation." email="paypal@coenjacobs.net" title="Donation for Paypal Donation Shortcode plugin" currency="USD"/]`
 
-Read more about this plugin on the [PayPal Donation Shortcode plugin] (http://coenjacobs.net/wordpress/plugins/paypal-donation-shortcode) page.
+Read more about this plugin on the [PayPal Donation Shortcode plugin](http://coenjacobs.net/wordpress/plugins/paypal-donation-shortcode) page.
 
 == Installation ==
 
