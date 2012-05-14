@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: coenjacobs
+Contributors: CoenJacobs
 Donate link: http://coenjacobs.net/donate
 Tags: paypal, donation
 Requires at least: 2.6
